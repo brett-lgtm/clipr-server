@@ -4,3 +4,4 @@ thumbnails/
 metadata.json
 .env
 *.log
+.github/
